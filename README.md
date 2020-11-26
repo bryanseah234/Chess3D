@@ -1,12 +1,9 @@
-3D Hartwig chess set 
-====================
+# 3D Hartwig chess set 
+Disclaimer: Works only in webkit.
 
-3D chess game done in HTML/CSS/JS.
-Works only in webkit.
+## Demo
+http://codepen.io/juliangarnier/full/BsIih
 
-See it in action : http://codepen.io/juliangarnier/full/BsIih
-
-**Libraries**
-
+## Libraries
 * Photon : http://photon.attasi.com
 * Chess.js : https://github.com/jhlywa/chess.js

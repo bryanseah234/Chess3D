@@ -22,7 +22,7 @@ This project is a fully playable 3D chess game implemented using CSS3 transforms
 - HTML5
 - CSS3 (3D transforms, animations)
 - JavaScript (ES5)
-- jQuery 1.7.2
+- jQuery 1.7.2 (legacy dependency)
 - [Photon](http://photon.attasi.com) - CSS 3D lighting effects
 - [Chess.js](https://github.com/jhlywa/chess.js) - Chess move generation and validation
 - [Prefix-free](https://leaverou.github.io/prefixfree/) - CSS prefix handling
